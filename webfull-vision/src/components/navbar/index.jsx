@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 const NavBar = () => {
     const navBarList = [
         { id: 1, name: "Home", path: "/" },
-        { id: 2, name: "About", path: "/about" },
-        { id: 3, name: "Services", path: "/services" },
-        { id: 4, name: "Blog", path: "/blog" },
-        { id: 5, name: "Contact", path: "/contact" },
+        { id: 2, name: "About", path: "/" },
+        { id: 3, name: "Services", path: "/" },
+        { id: 4, name: "Blog", path: "/" },
+        { id: 5, name: "Contact", path: "/" },
     ];
 
     const socialMedia = [
