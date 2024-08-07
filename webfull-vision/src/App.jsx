@@ -1,8 +1,8 @@
 import Component from "./components";
-import "./output.css"
+import "./style.css"
 const App = () =>{
     return(
-        <div className="p-10">
+        <div className="p-20">
             <Component/>
         </div>
         
