@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import "./output.css"
+import "./style.css"
 import HomePage from "./pages/home-page";
 const App = () =>{
     return(
