@@ -1,6 +1,7 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+
 import "./style.css"
 import HomePage from "./pages/home-page";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 const App = () =>{
     return(
         <BrowserRouter>
