@@ -30,4 +30,8 @@ const NavBar = () => {
         </div>
     );
 };
+<<<<<<< HEAD
 export default NavBar;
+=======
+export default NavBar;
+>>>>>>> e341ddd (fix spacing & create saperate json file for data list)
