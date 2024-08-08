@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "src":"/svg/square-facebook-brands-solid.svg",
+        "alt":"facebook",
+        "path":"/"
+    },
+    {
+        "id":2,
+        "src":"/svg/square-google-plus-brands-solid.svg",
+        "alt":"google plus",
+        "path":"/"
+    },
+    {
+        "id":3,
+        "src":"/svg/square-twitter-brands-solid.svg",
+        "alt":"twitter",
+        "path":"/"
+    },
+    {
+        "id":4,
+        "src":"svg/linkedin-brands-solid.svg",
+        "alt":"linkedin",
+        "path":"/"
+    },
+    {
+        "id":5,
+        "src":"/svg/square-youtube-brands-solid.svg",
+        "alt":"youtube",
+        "path":"/"
+    },
+    {
+        "id":6,
+        "src":"/svg/square-pinterest-brands-solid.svg",
+        "alt":"pinterest",
+        "path":"/"
+    }
+]
+

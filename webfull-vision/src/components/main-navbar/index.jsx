@@ -1,17 +1,6 @@
 import { Link } from "react-router-dom";
-
+import navBarList from "../../../data/mainNavBar.json";
 const MainNavBar = () => {
-    const navBarList = [
-        { id: 1, name: "Home Page", path: "/" },
-        { id: 2, name: "Pages", path: "/" },
-        { id: 3, name: "Services", path: "/" },
-        { id: 4, name: "Staff", path: "/" },
-        { id: 5, name: "Appointment", path: "/" },
-        { id: 6, name: "Shop", path: "/" },
-        { id: 7, name: "Blog", path: "/" },
-        { id: 8, name: "Contact", path: "/" },
-    ];
-
     return (
         <div className="container bg-[#15568E]">
             <div className="flex justify-center items-center px-48 ">
