@@ -15,7 +15,7 @@ const Banner = () => {
     };
 
     return (
-        <div className="relative w-full overflow-hidden pb-20">
+        <div className="relative w-full overflow-hidden pb-56">
             <Slider {...settings}>
                 {bannerList.map((item) => (
                     <div key={item.id} className="relative w-full h-[500px]">
@@ -36,7 +36,7 @@ const Banner = () => {
                     </div>
                 ))}
             </Slider>
-            <div className='absolute -bottom-32 left-24 z-20'>
+            <div className='absolute bottom-0 left-24 z-50'>
                 <InformationBox/>
             </div>
         </div>
