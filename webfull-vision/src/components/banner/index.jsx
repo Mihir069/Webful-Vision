@@ -36,7 +36,7 @@ const Banner = () => {
                     </div>
                 ))}
             </Slider>
-            <div className='absolute -bottom-24 left-24 z-20'>
+            <div className='absolute -bottom-32 left-24 z-20'>
                 <InformationBox/>
             </div>
         </div>
