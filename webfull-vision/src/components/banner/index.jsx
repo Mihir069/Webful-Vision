@@ -24,7 +24,7 @@ const Banner = () => {
                             <div className="bg-[#CE6021] text-white text-sm font-bold p-2 uppercase mb-4">
                                 {item.title}
                             </div>
-                            <div className="text-white text-5xl mt-4 px-4 font-customFont font-bold leading-snug">
+                            <div className="text-white text-4xl mt-4 px-4 font-customFont font-bold leading-snug w-[600px]">
                                 {item.text}
                             </div>
                             <div className='mt-6 py-2 px-3 border border-white hover:bg-[#CE6021] hover:border-[#CE6021] duration-300 ease-in-out'>
@@ -36,7 +36,7 @@ const Banner = () => {
                     </div>
                 ))}
             </Slider>
-            <div className='absolute -bottom-24 left-0 right-0 z-20'>
+            <div className='absolute -bottom-24 left-24 z-20'>
                 <InformationBox/>
             </div>
         </div>
