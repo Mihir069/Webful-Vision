@@ -1,11 +1,15 @@
 import Banner from "../../components/banner";
 import Header from "../../components/header"
+import Services from "../../components/services";
+import WelcomeMessage from "../../components/welcome-message";
 
 const HomePage = () =>{
     return(
         <>
             <Header/>
             <Banner/>
+            <WelcomeMessage/>
+            <Services/>
         </>
     )
 }

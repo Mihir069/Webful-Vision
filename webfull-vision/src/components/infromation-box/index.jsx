@@ -4,7 +4,7 @@ import InformationCard3 from "./infromation-thumb-card3";
 
 const InformationBox = () => {
     return (
-        <div className="p-2 flex">
+        <div className="flex">
             <InformationCard1/>
             <InformationCard2/>
             <InformationCard3/>
