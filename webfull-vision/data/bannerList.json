@@ -1,30 +1,30 @@
 [
-    { 
-        "id": 1,
-        "src": "/img/slide1.jpg", 
-        "alt": "slide1", 
-        "title": "Shaded Lenses", 
-        "text": "We have a vast range of eye lenses to suggest you!" 
-    },
-    { 
-        "id": 2, 
-        "src": "/img/slide2.jpg", 
-        "alt": "slide2", 
-        "title": "Get Rid of Glasses", 
-        "text": "Our Lasik Specialist can give you laser treatment!" 
-    },
-    { 
-        "id": 3, 
-        "src": "/img/slide3.jpg", 
-        "alt": "slide3", 
-        "title": "Your Vision Test", 
-        "text": "At Webful Vision, our test ensures you are viewing best!"
-    },
-    { 
-        "id": 4, 
-        "src": "/img/slide4.jpg", 
-        "alt": "slide4", 
-        "title": "Dry Eye Center", 
-        "text": "Do you feel dry eyes after using a computer or mobile?" 
-    }
+  {
+    "id": 1,
+    "src": "/img/slide1.jpg",
+    "alt": "slide1",
+    "title": "Shaded Lenses",
+    "text": "We have a vast range of eye lenses to suggest you!"
+  },
+  {
+    "id": 2,
+    "src": "/img/slide2.jpg",
+    "alt": "slide2",
+    "title": "Get Rid of Glasses",
+    "text": "Our Lasik Specialist can give you laser treatment!"
+  },
+  {
+    "id": 3,
+    "src": "/img/slide3.jpg",
+    "alt": "slide3",
+    "title": "Your Vision Test",
+    "text": "At Webful Vision, our test ensures you are viewing best!"
+  },
+  {
+    "id": 4,
+    "src": "/img/slide4.jpg",
+    "alt": "slide4",
+    "title": "Dry Eye Center",
+    "text": "Do you feel dry eyes after using a computer or mobile?"
+  }
 ]
