@@ -1,11 +1,20 @@
-const Services = () => {
-    return (
-        <div className="relative">
-            <div className="relative h-40"><img src="/img/footer-bg.jpg" alt="footer-bg" className="w-full h-full object-cover brightness-75" /> </div>
-            <div className="absolute inset-0 flex items-center justify-center px-48">
-                <p className="text-white text-3xl font-bold">Text</p>
-            </div>
-        </div>
-    )
-}
+import ServicesCard from "../service-card";
+
+const Services = () => (
+  <div className="relative bg-[url('/img/footer-bg.jpg')] bg-cover bg-center h-auto text-center px-48">
+    <div className="absolute inset-0 bg-black opacity-70 z-0"></div>
+    <div className="relative z-10 px-20 py-14">
+      <h1 className="text-slate-100 text-4xl uppercase font-bold">
+        Our Eye Services
+      </h1>
+      <p className="text-md text-slate-100">
+        Our Services To Give Best Care For Your Eyes
+      </p>
+    </div>
+    <div className="pb-12">
+      <ServicesCard />
+    </div>
+  </div>
+);
+
 export default Services;

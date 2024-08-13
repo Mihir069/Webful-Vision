@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "/img/post-operative-lasik-care.jpg",
+    "alt": "service1",
+    "path": "/",
+    "title": "Post Operative Lasik Care",
+    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 2,
+    "img": "/img/lense-consultation.jpg",
+    "alt": "service2",
+    "path": "/",
+    "title": "Free Lense Consultation",
+    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 3,
+    "img": "/img/lasik-consultation.jpg",
+    "alt": "service3",
+    "path": "/",
+    "title": "Great Lasik Consultation",
+    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 4,
+    "img": "/img/glaucoma-screening.jpg",
+    "alt": "service4",
+    "path": "/",
+    "title": "Glaucoma Screening",
+    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 5,
+    "img": "/img/eye-infection.jpg",
+    "alt": "service5",
+    "path": "/",
+    "title": "Eye Infaction Care",
+    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 6,
+    "img": "/img/eye-exam.jpg",
+    "alt": "service6",
+    "path": "/",
+    "title": "Computerized Eye Exam",
+    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 7,
+    "img": "/img/dry-eyes.jpg",
+    "alt": "service7",
+    "path": "/",
+    "title": "Dry Eyes Treatment",
+    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 8,
+    "img": "/img/contract-screening.jpg",
+    "alt": "service8",
+    "path": "/",
+    "title": "Contract Screening",
+    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 9,
+    "img": "/img/post-operative-lasik-care.jpg",
+    "alt": "service9",
+    "path": "/",
+    "title": "Post Operative Lasik Care",
+    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  }
+]
