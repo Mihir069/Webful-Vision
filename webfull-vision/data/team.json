@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "img": "/img/doctor1.jpg",
+    "postion": "Senior Doctor",
+    "name": "Mr. John Doe",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 2,
+    "img": "/img/doctor2.jpg",
+    "postion": "Senior Doctor",
+    "name": "Mr. John Doe",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 3,
+    "img": "/img/doctor1.jpg",
+    "postion": "Senior Doctor",
+    "name": "Mr. John Doe",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 4,
+    "img": "/img/doctor2.jpg",
+    "postion": "Senior Doctor",
+    "name": "Mr. John Doe",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 5,
+    "img": "/img/doctor1.jpg",
+    "postion": "Senior Doctor",
+    "name": "Mr. John Doe",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  },
+  {
+    "id": 6,
+    "img": "/img/doctor2.jpg",
+    "postion": "Senior Doctor",
+    "name": "Mr. John Doe",
+    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+  }
+]
