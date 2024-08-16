@@ -11,8 +11,16 @@ const TeamModule = () => {
   const transformValue = `translateX(-${currentIndex * itemWidth}%)`;
 
   return (
-    <div className="relative px-4 md:px-48 flex flex-wrap">
+    <div className="px-4 md:px-48 flex flex-wrap">
       <div className="relative overflow-hidden w-full">
+        <div className="text-center">
+          <div className="py-2 text-3xl font-semibold uppercase">
+            Meet our <span className="text-[#CE6021]">team</span>{" "}
+          </div>
+          <div className="text-sm">
+            We Have Best Professional Team To Care Your Eyes
+          </div>
+        </div>
         <div
           className="flex py-5 transition-transform duration-500 ease-in-out"
           style={{ transform: transformValue, width: `${totalPages * 100}%` }}
