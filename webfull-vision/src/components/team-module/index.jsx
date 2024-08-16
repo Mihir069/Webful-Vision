@@ -59,7 +59,7 @@ const TeamModule = () => {
           </button>
           <button
             onClick={() =>
-              setCurrentIndex((prev) => Math.min(prev + 1, totalPages - 1))
+              setCurrentIndex((prev) => Math.min(prev + 1, totalPages - 2))
             }
             className="border border-[#CE6021] hover:bg-[#CE6021] hover:text-white text-[#CE6021] p-2"
           >
