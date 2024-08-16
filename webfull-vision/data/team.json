@@ -2,43 +2,73 @@
   {
     "id": 1,
     "img": "/img/doctor1.jpg",
+    "alt": "doctor",
     "postion": "Senior Doctor",
     "name": "Mr. John Doe",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+    "facebook": "/svg/facebook-f-brands-solid.svg",
+    "twitter": "/svg/twitter-brands-solid.svg",
+    "linkedin": "/svg/linkedin-in-brands-solid.svg",
+    "google": "/svg/google-plus-g-brands-solid.svg"
   },
   {
     "id": 2,
     "img": "/img/doctor2.jpg",
+    "alt": "doctor",
     "postion": "Senior Doctor",
     "name": "Mr. John Doe",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+    "facebook": "/svg/facebook-f-brands-solid.svg",
+    "twitter": "/svg/twitter-brands-solid.svg",
+    "linkedin": "/svg/linkedin-in-brands-solid.svg",
+    "google": "/svg/google-plus-g-brands-solid.svg"
   },
   {
     "id": 3,
     "img": "/img/doctor1.jpg",
+    "alt": "doctor",
     "postion": "Senior Doctor",
     "name": "Mr. John Doe",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+    "facebook": "/svg/facebook-f-brands-solid.svg",
+    "twitter": "/svg/twitter-brands-solid.svg",
+    "linkedin": "/svg/linkedin-in-brands-solid.svg",
+    "google": "/svg/google-plus-g-brands-solid.svg"
   },
   {
     "id": 4,
     "img": "/img/doctor2.jpg",
+    "alt": "doctor",
     "postion": "Senior Doctor",
     "name": "Mr. John Doe",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+    "facebook": "/svg/facebook-f-brands-solid.svg",
+    "twitter": "/svg/twitter-brands-solid.svg",
+    "linkedin": "/svg/linkedin-in-brands-solid.svg",
+    "google": "/svg/google-plus-g-brands-solid.svg"
   },
   {
     "id": 5,
     "img": "/img/doctor1.jpg",
+    "alt": "doctor",
     "postion": "Senior Doctor",
     "name": "Mr. John Doe",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+    "facebook": "/svg/facebook-f-brands-solid.svg",
+    "twitter": "/svg/twitter-brands-solid.svg",
+    "linkedin": "/svg/linkedin-in-brands-solid.svg",
+    "google": "/svg/google-plus-g-brands-solid.svg"
   },
   {
     "id": 6,
     "img": "/img/doctor2.jpg",
+    "alt": "doctor",
     "postion": "Senior Doctor",
     "name": "Mr. John Doe",
-    "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled",
+    "facebook": "/svg/facebook-f-brands-solid.svg",
+    "twitter": "/svg/twitter-brands-solid.svg",
+    "linkedin": "/svg/linkedin-in-brands-solid.svg",
+    "google": "/svg/google-plus-g-brands-solid.svg"
   }
 ]
