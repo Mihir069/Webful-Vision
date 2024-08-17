@@ -3,9 +3,7 @@ import team from "../../../data/team.json";
 
 const TeamModule = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const itemsPerPage = 2;
   const totalItems = team.length;
-  const totalPages = Math.ceil(totalItems / itemsPerPage);
 
   const handleResize = () => {
     if (window.innerWidth < 768) {
@@ -16,6 +14,7 @@ const TeamModule = () => {
   };
 
   const [itemsPerPageState, setItemsPerPageState] = useState(handleResize);
+
   useState(() => {
     const onResize = () => setItemsPerPageState(handleResize());
     window.addEventListener("resize", onResize);
@@ -26,7 +25,7 @@ const TeamModule = () => {
   const itemWidth = 100 / itemsPerPageState;
   const transformValue = `translateX(-${currentIndex * itemWidth}%)`;
 
-  const team = team.map((item, index) => (
+  const teamList = team.map((item, index) => (
     <div key={item.id} className={`w-${100 / itemsPerPageState}% p-3`}>
       <div className="flex bg-slate-100 overflow-hidden border">
         <div className="flex-shrink-0 w-[60%] md:w-1/2">
@@ -69,7 +68,7 @@ const TeamModule = () => {
             width: `${totalPagesResponsive * 100}%`,
           }}
         >
-          {team}
+          {teamList}
         </div>
         <div className="absolute inset-x-0 bottom-36 flex justify-between py-2">
           <button
