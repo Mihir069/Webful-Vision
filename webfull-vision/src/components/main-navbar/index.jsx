@@ -4,20 +4,31 @@ import navBarList from "../../../data/mainNavBar.json";
 
 const MainNavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
-
   const toggleMenu = () => setIsOpen(!isOpen);
+
+  const navBarMenu = navBarList.map((item) => (
+    <li key={item.id} className="py-3">
+      <Link
+        to={item.path}
+        className="text-slate-100 text-lg uppercase"
+        onClick={() => setIsOpen(false)}
+      >
+        {item.name}
+      </Link>
+    </li>
+  ));
+
+  const navBarBmenu = navBarList.map((item) => (
+    <li key={item.id} className="relative px-5 py-3 hover:bg-[#CE6021]">
+      <Link to={item.path} className="text-slate-100 uppercase">
+        {item.name}
+      </Link>
+    </li>
+  ));
 
   return (
     <div className="container bg-[#15568E]">
-      <div className="flex justify-between items-center px-4 sm:px-48 py-3">
-        <div className="flex items-center">
-          <img
-            src="/img/webful-vision-logo.png"
-            alt="logo"
-            className="w-12 h-auto"
-          />
-        </div>
-
+      <div className="flex justify-end items-center px-4 sm:px-48">
         <button
           onClick={toggleMenu}
           className="text-slate-100 sm:hidden focus:outline-none"
@@ -48,28 +59,10 @@ const MainNavBar = () => {
           >
             &times;
           </button>
-          <ul className="flex flex-col items-center mt-16">
-            {navBarList.map((item) => (
-              <li key={item.id} className="py-3">
-                <Link
-                  to={item.path}
-                  className="text-slate-100 text-lg uppercase"
-                  onClick={() => setIsOpen(false)}
-                >
-                  {item.name}
-                </Link>
-              </li>
-            ))}
-          </ul>
+          <ul className="flex flex-col items-center mt-16">{navBarMenu}</ul>
         </div>
         <ul className="hidden sm:flex items-center space-x-4 list-none">
-          {navBarList.map((item) => (
-            <li key={item.id} className="relative px-5 py-3 hover:bg-[#CE6021]">
-              <Link to={item.path} className="text-slate-100 uppercase">
-                {item.name}
-              </Link>
-            </li>
-          ))}
+          {navBarBmenu}
         </ul>
       </div>
     </div>
