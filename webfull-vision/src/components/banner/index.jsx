@@ -36,7 +36,7 @@ const Banner = () => {
     </div>
   ));
   return (
-    <div className="relative w-full overflow-hidden pb-[56%] sm:pb-56">
+    <div className="relative w-full overflow-hidden sm:pb-56">
       <Slider {...settings}>{banner}</Slider>
       <div className="absolute bottom-0 left-0 sm:left-24 z-50 w-full sm:w-auto hidden sm:block">
         <InformationBox />
