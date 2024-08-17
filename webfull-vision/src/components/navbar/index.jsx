@@ -1,10 +1,11 @@
 import { Link } from "react-router-dom";
 import navbarList from "../../../data/navbar.json";
 import socialMedia from "../../../data/social.json";
+
 const NavBar = () => (
-  <div className="container bg-[#CE6021]">
+  <div className="hidden md:block bg-[#CE6021]">
     <div className="flex justify-between items-center px-48 p-2">
-      <ul className=" flex items-center space-x-4 list-none ">
+      <ul className="flex items-center space-x-4 list-none">
         {navbarList.map((item, index) => (
           <li key={item.id} className="relative">
             <Link
@@ -19,7 +20,7 @@ const NavBar = () => (
           </li>
         ))}
       </ul>
-      <ul className=" flex items-center space-x-4 list-none ">
+      <ul className="flex items-center space-x-4 list-none">
         {socialMedia.map((item) => (
           <li key={item.id} className="relative w-4">
             <Link to={item.path}>
@@ -31,4 +32,5 @@ const NavBar = () => (
     </div>
   </div>
 );
+
 export default NavBar;
