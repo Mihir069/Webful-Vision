@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "img": "/img/product1.jpg",
+    "alt": "product1",
+    "title": "Feugiat justo Lacinia",
+    "price": "150$",
+    "discount": "100$",
+    "path": "/",
+    "ratings": 5,
+    "sale": false
+  },
+  {
+    "id": 2,
+    "img": "/img/product2.jpg",
+    "alt": "product2",
+    "title": "Feugiat justo Lacinia",
+    "price": "150$",
+    "discount": "100$",
+    "path": "/",
+    "ratings": 5,
+    "sale": true
+  },
+  {
+    "id": 3,
+    "img": "/img/product3.jpg",
+    "alt": "product3",
+    "title": "Feugiat justo Lacinia",
+    "price": "150$",
+    "discount": "100$",
+    "path": "/",
+    "ratings": 5,
+    "sale": false
+  },
+  {
+    "id": 4,
+    "img": "/img/product4.jpg",
+    "alt": "product4",
+    "title": "Feugiat justo Lacinia",
+    "price": "150$",
+    "discount": "100$",
+    "path": "/",
+    "ratings": 5,
+    "sale": false
+  }
+]

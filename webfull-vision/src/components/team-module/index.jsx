@@ -51,7 +51,7 @@ const TeamModule = () => {
   ));
 
   return (
-    <div className="px-4 md:px-48 flex flex-wrap">
+    <div className="px-4 py-10 md:px-48 flex flex-wrap">
       <div className="relative overflow-hidden w-full">
         <div className="text-center">
           <div className="py-2 text-3xl font-semibold uppercase">
