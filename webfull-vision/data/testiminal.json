@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "img": "/img/testi2.jpg",
+    "alt": "test2",
+    "title": "Important person, some Company",
+    "quotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices, elit sed faucibus pharetra, diam mauris bibendum orci, sit amet ullamcorper purus dui sit amet augue. Donec aliquet diam ut neque mattis, eu tristique sem rutrum."
+  }
+]
