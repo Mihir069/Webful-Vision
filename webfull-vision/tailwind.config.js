@@ -8,5 +8,12 @@ export default {
       },
     },
   },
+  theme: {
+    extend: {
+      fontFamily: {
+        customFont: ['"Raleway"', "sans-serif"],
+      },
+    },
+  },
   plugins: [],
 };

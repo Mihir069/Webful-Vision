@@ -1,5 +1,6 @@
 import Banner from "../../components/banner";
 import Header from "../../components/header";
+import News from "../../components/news";
 import Services from "../../components/services";
 import Shop from "../../components/shop";
 import TeamModule from "../../components/team-module";
@@ -13,6 +14,7 @@ const HomePage = () => (
     <Services />
     <TeamModule />
     <Shop />
+    <News />
   </>
 );
 export default HomePage;

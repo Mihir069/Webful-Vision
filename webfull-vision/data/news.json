@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "img": "/img/slide1.jpg",
+    "alt": "slide1",
+    "title": "Want to see 20/20?",
+    "date": "20,Dec,2016",
+    "category": "Campus",
+    "author": "Ateeq",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text ... ",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "img": "/img/slide2.jpg",
+    "alt": "slide2",
+    "title": "The Best Gift Eyes",
+    "date": "20,Dec,2016",
+    "category": "Campus",
+    "author": "Ateeq",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text ... ",
+    "link": "/"
+  },
+  {
+    "id": 3,
+    "img": "/img/slide3.jpg",
+    "alt": "slide3",
+    "title": "Best Treatment for you",
+    "date": "20,Dec,2016",
+    "category": "Campus",
+    "author": "Ateeq",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text ... ",
+    "link": "/"
+  }
+]
