@@ -1,4 +1,5 @@
 import Banner from "../../components/banner";
+import Blog from "../../components/blog";
 import Header from "../../components/header";
 import OurServices from "../../components/our-service";
 import Services from "../../components/services";
@@ -15,6 +16,7 @@ const HomePage = () => (
     <TeamModule />
     <Shop />
     <OurServices />
+    <Blog />
   </>
 );
 export default HomePage;
