@@ -1,6 +1,7 @@
 import Banner from "../../components/banner";
 import Blog from "../../components/blog";
 import Header from "../../components/header";
+import News from "../../components/news";
 import OurServices from "../../components/our-service";
 import Services from "../../components/services";
 import Shop from "../../components/shop";
@@ -15,6 +16,7 @@ const HomePage = () => (
     <Services />
     <TeamModule />
     <Shop />
+    <News />
     <OurServices />
     <Blog />
   </>
