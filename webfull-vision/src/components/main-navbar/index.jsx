@@ -27,8 +27,8 @@ const MainNavBar = () => {
   ));
 
   return (
-    <div className="container bg-[#15568E]">
-      <div className="flex justify-end items-center px-4 sm:px-48">
+    <div className=" bg-[#15568E]">
+      <div className="flex sm:justify-end md:justify-end lg:justify-center items-center px-4 sm:px-48">
         <button
           onClick={toggleMenu}
           className="text-slate-100 sm:hidden focus:outline-none"
