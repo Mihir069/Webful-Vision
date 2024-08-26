@@ -7,7 +7,7 @@ const InformationCard1 = () => (
       Our wide range of lenses and frames help you choose the best suitable
       items for you.
     </p>
-    <ul className="list-disc pl-5 text-white text-sm">
+    <ul className="list-none pl-5 text-white text-sm">
       <li>
         <span>&#10004;</span> Latest Fashion
       </li>
