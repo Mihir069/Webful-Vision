@@ -1,5 +1,7 @@
 import Banner from "../../../components/banner";
 import Blog from "../../../components/blog";
+import BranchModule from "../../../components/branch-module";
+import Footer from "../../../components/footer";
 import Header from "../../../components/header";
 import News from "../../../components/news";
 import OurServices from "../../../components/our-service";
@@ -16,10 +18,11 @@ const HomePage = () => (
     <Services />
     <TeamModule />
     <Shop />
-    <News />
-    <OurServices />
     <Blog />
+    <OurServices />
     <News />
+    <BranchModule />
+    <Footer />
   </>
 );
 export default HomePage;
