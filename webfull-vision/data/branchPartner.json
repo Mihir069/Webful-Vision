@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "logo": "img/partner2.jpg",
+    "alt": "partner2"
+  },
+  {
+    "id": 2,
+    "logo": "img/partner3.jpg",
+    "alt": "partner3"
+  },
+  {
+    "id": 3,
+    "logo": "img/partner4.jpg",
+    "alt": "partner4"
+  },
+  {
+    "id": 4,
+    "logo": "img/partner5.jpg",
+    "alt": "partner5"
+  },
+  {
+    "id": 5,
+    "logo": "img/partner6.jpg",
+    "alt": "partner6"
+  }
+]
