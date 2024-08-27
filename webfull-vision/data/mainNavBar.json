@@ -2,7 +2,19 @@
   {
     "id": 1,
     "name": "Home Pages",
-    "path": "/"
+    "path": "/",
+    "more": [
+      {
+        "id": 11,
+        "name": "Home Version 1",
+        "path": "/"
+      },
+      {
+        "id": 12,
+        "name": "Home Version 2",
+        "path": "/"
+      }
+    ]
   },
   {
     "id": 2,
