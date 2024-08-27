@@ -13,23 +13,89 @@
         "id": 12,
         "name": "Home Version 2",
         "path": "/"
+      },
+      {
+        "id": 13,
+        "name": "Boxed Layout",
+        "path": "/"
       }
     ]
   },
   {
     "id": 2,
     "name": "Page",
-    "path": "/"
+    "path": "/",
+    "more": [
+      {
+        "id": 14,
+        "name": "About Us",
+        "path": "/"
+      },
+      {
+        "id": 15,
+        "name": "Faq's",
+        "path": "/"
+      },
+      {
+        "id": 16,
+        "name": "Gallery",
+        "path": "/"
+      },
+      {
+        "id": 17,
+        "name": "Testimonals",
+        "path": "/"
+      },
+      {
+        "id": 18,
+        "name": "Pricinf List",
+        "path": "/"
+      },
+      {
+        "id": 19,
+        "name": "Appointment",
+        "path": "/"
+      },
+      {
+        "id": 20,
+        "name": "404 Page",
+        "path": "/"
+      }
+    ]
   },
   {
     "id": 3,
     "name": "Services",
-    "path": "/"
+    "path": "/",
+    "more": [
+      {
+        "id": 21,
+        "name": "Services",
+        "path": "/"
+      },
+      {
+        "id": 22,
+        "name": "Single Service",
+        "path": "/"
+      }
+    ]
   },
   {
     "id": 4,
     "name": "Staff",
-    "path": "/"
+    "path": "/",
+    "more": [
+      {
+        "id": 23,
+        "name": "Our Staff",
+        "path": "/"
+      },
+      {
+        "id": 24,
+        "name": "Single Doctor",
+        "path": "/"
+      }
+    ]
   },
   {
     "id": 5,
@@ -39,12 +105,46 @@
   {
     "id": 6,
     "name": "Shop",
-    "path": "/"
+    "path": "/",
+    "more": [
+      {
+        "id": 25,
+        "name": "Shop",
+        "path": "/"
+      },
+      {
+        "id": 26,
+        "name": "Single Product",
+        "path": "/"
+      },
+      {
+        "id": 27,
+        "name": "Cart",
+        "path": "/"
+      },
+      {
+        "id": 28,
+        "name": "Checkout",
+        "path": "/"
+      }
+    ]
   },
   {
     "id": 7,
     "name": "Blog",
-    "path": "/"
+    "path": "/",
+    "more": [
+      {
+        "id": 29,
+        "name": "Blog",
+        "path": "/"
+      },
+      {
+        "id": 30,
+        "name": "Single Post",
+        "path": "/"
+      }
+    ]
   },
   {
     "id": 8,
