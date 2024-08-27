@@ -18,9 +18,8 @@ const HomePage = () => (
     <Services />
     <TeamModule />
     <Shop />
-    <News />
-    <OurServices />
     <Blog />
+    <OurServices />
     <News />
     <BranchModule />
     <Footer />
