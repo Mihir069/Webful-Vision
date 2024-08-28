@@ -6,8 +6,8 @@ import Header from "../../../components/header";
 import News from "../../../components/news";
 import OptometristFeature from "../../../components/optometrist-feature";
 import OurServices from "../../../components/our-service";
+import Price from "../../../components/price/price";
 import Services from "../../../components/services";
-import Shop from "../../../components/shop";
 import TeamModule from "../../../components/team-module";
 
 const HomePageVersion2 = () => (
@@ -17,7 +17,7 @@ const HomePageVersion2 = () => (
     <OptometristFeature />
     <Services />
     <TeamModule />
-    <Shop />
+    <Price />
     <Blog />
     <OurServices />
     <News />
