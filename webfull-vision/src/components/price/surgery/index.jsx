@@ -2,34 +2,34 @@ const Surgery = () => (
   <div className="text-white">
     <div className="bg-[#15568E]">
       <div className="p-5 text-center">
-        <div className="text-2xl">Surgery</div>
-        <div className="text-7xl">$200.20</div>
+        <div className="text-2xl md:text-3xl">Surgery</div>
+        <div className="text-4xl md:text-7xl">$200.20</div>
       </div>
     </div>
     <div className="p-5 bg-slate-100">
-      <div className="flex gap-5 border-b-2 py-4">
+      <div className="flex flex-col md:flex-row gap-5 border-b-2 py-4">
         <img src="/svg/check-solid.svg" alt="check-mark" className="w-3" />
         <p className="text-sm text-slate-700">Lorem ipsum dolor sit amet</p>
       </div>
-      <div className="flex gap-5 border-b-2 py-4">
+      <div className="flex flex-col md:flex-row gap-5 border-b-2 py-4">
         <img src="/svg/check-solid.svg" alt="check-mark" className="w-3" />
         <p className="text-sm text-slate-700">
           Consectetur adipiscing elit, sed do
         </p>
       </div>
-      <div className="flex gap-5 border-b-2 py-4">
+      <div className="flex flex-col md:flex-row gap-5 border-b-2 py-4">
         <img src="/svg/check-solid.svg" alt="check-mark" className="w-3" />
         <p className="text-sm text-slate-700">
           <span className="font-semibold">Eiusmod</span> tempor incididunt
         </p>
       </div>
-      <div className="flex gap-5 border-b-2 py-4">
+      <div className="flex flex-col md:flex-row gap-5 border-b-2 py-4">
         <img src="/svg/xmark-solid.svg" alt="x-mark" className="w-3" />
         <p className="text-sm text-slate-700">
           Ut labore et dolore magna aliqua
         </p>
       </div>
-      <div className="flex gap-5 py-4">
+      <div className="flex flex-col md:flex-row gap-5 py-4">
         <img src="/svg/xmark-solid.svg" alt="x-mark" className="w-3" />
         <p className="text-sm text-slate-700">Ut enim ad minim veniam</p>
       </div>
