@@ -40,7 +40,7 @@ const Footer = () => {
               Quick Links
             </div>
             <div className="bg-slate-100 w-16 h-1 mb-4"></div>
-            <div className="flex flex-col md:flex-row gap-8 md:gap-10">
+            <div className="flex  md:flex-row gap-8 md:gap-10">
               <ul className="text-slate-100 text-sm leading-6 py-2">
                 <li className="mb-1">
                   <Link to="/" className="hover:text-[#CE6021]">
