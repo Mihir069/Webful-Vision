@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "src": "/svg/eye-regular.svg",
+    "alt": "eye",
+    "title": "Is Lasik Secure?",
+    "description": "From Last 30 years we are in industry and have honor 123-123-1234"
+  },
+  {
+    "id": 2,
+    "src": "/svg/stethoscope-solid.svg",
+    "alt": "stethoscope",
+    "title": "Special Techniques",
+    "description": "We are providing special visual teaching techniques to help you grow faster."
+  },
+  {
+    "id": 3,
+    "src": "/svg/user-doctor-solid.svg",
+    "alt": "user-doctor",
+    "title": "Qualified Staff",
+    "description": "Our Qualified best teachers from industry give you best professional Knowledge."
+  },
+  {
+    "id": 4,
+    "src": "/svg/phone-solid-white.svg",
+    "alt": "user-doctor",
+    "title": "Get Admission",
+    "description": "Rush before all seats are reserved for current batch. 123-123-1234"
+  }
+]
