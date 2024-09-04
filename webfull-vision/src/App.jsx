@@ -8,6 +8,7 @@ const HomePageVersion2 = lazy(() =>
 );
 const FaqPage = lazy(() => import("./pages/faq-page"));
 const AboutUsPage = lazy(() => import("./pages/about-us-page"));
+const PricingPage = lazy(() => import("./pages/pricing-page"));
 const App = () => (
   <BrowserRouter>
     <Suspense fallback={<div>loading....</div>}>
@@ -16,6 +17,7 @@ const App = () => (
         <Route path="/home-version-2" element={<HomePageVersion2 />} />
         <Route path="/faq" element={<FaqPage />} />
         <Route path="/about-us" element={<AboutUsPage />} />
+        <Route path="/pricing-list" element={<PricingPage />} />
       </Routes>
     </Suspense>
   </BrowserRouter>
