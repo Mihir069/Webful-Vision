@@ -13,11 +13,11 @@ const Blog = () => (
             We Have Best Professional Team To Care Your Eyes
           </div>
         </div>
-        <div className="py-8 md:py-14 flex flex-col md:flex-row w-full gap-5">
+        <div className=" relative py-8 md:py-1 flex flex-col md:flex-row w-full gap-5">
           <div className="w-full md:w-[68%]">
             <BlogContent />
           </div>
-          <div className="w-full md:w-[32%]">
+          <div className="hidden md:block absolute right-0 w-full md:w-[32%]">
             <Testimonials />
           </div>
         </div>

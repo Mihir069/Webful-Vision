@@ -2,6 +2,7 @@ import "@fontsource/raleway";
 import { lazy, Suspense } from "react";
 import "./style.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import TestimoanalPage from "./pages/testimonal-page";
 const HomePage = lazy(() => import("./pages/home-page/home-page-version-1"));
 const HomePageVersion2 = lazy(() =>
   import("./pages/home-page/home-page-version-2")
@@ -21,6 +22,7 @@ const App = () => (
         <Route path="/about-us" element={<AboutUsPage />} />
         <Route path="/pricing-list" element={<PricingPage />} />
         <Route path="/appointment" element={<AppointmentPage />} />
+        <Route path="/testimonal" element={<TestimoanalPage />} />
       </Routes>
     </Suspense>
   </BrowserRouter>
