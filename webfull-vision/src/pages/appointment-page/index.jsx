@@ -1,4 +1,4 @@
-import Appointment from "../../components/appointment";
+import Appointment from "../../components/appointment/appointment-banner";
 import Blog from "../../components/blog";
 import Footer from "../../components/footer";
 import Header from "../../components/header";
