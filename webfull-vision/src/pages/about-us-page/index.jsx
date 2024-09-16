@@ -1,5 +1,5 @@
-import AboutUsBanner from "../../components/about-us/about-us-banner";
-import AboutUsContent from "../../components/about-us/about-us-content";
+import AboutUs from "../../components/about-us";
+import PageBanner from "../../components/common/page-banner";
 import Connect from "../../components/connect";
 import Footer from "../../components/footer";
 import Header from "../../components/header";
@@ -9,9 +9,16 @@ import TeamModule from "../../components/team-module";
 const AboutUsPage = () => (
   <>
     <Header />
-    <AboutUsBanner />
+    <PageBanner
+      title="About Us"
+      breadcrumbs={[
+        { label: "Home", path: "/" },
+        { label: "Gene Splicing", path: "/" },
+        { label: "Cloning", path: "/" },
+      ]}
+    />
     <OptometristFeature />
-    <AboutUsContent />
+    <AboutUs />
     <TeamModule />
     <Connect />
     <Footer />
