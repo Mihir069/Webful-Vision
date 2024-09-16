@@ -39,7 +39,7 @@
       {
         "id": 16,
         "name": "Gallery",
-        "path": "/"
+        "path": "/gallery"
       },
       {
         "id": 17,
@@ -59,7 +59,7 @@
       {
         "id": 20,
         "name": "404 Page",
-        "path": "/"
+        "path": "/error-page"
       }
     ]
   },
@@ -100,7 +100,7 @@
   {
     "id": 5,
     "name": "Appointment",
-    "path": "/"
+    "path": "/appointment"
   },
   {
     "id": 6,
