@@ -1,23 +1,22 @@
 import PageBanner from "../../components/common/page-banner";
-import Connect from "../../components/connect";
 import Footer from "../../components/footer";
-import Gallery from "../../components/gallery";
 import Header from "../../components/header";
+import TestimonialContent from "../../components/testimonial-content";
 
-const GalleryPage = () => (
+const TestimonialPage = () => (
   <>
     <Header />
     <PageBanner
-      title="Our Pictures Gallery"
+      title="What customer says?"
       breadcrumbs={[
         { label: "Home", path: "/" },
         { label: "Gene Splicing", path: "/" },
         { label: "Cloning", path: "/" },
       ]}
     />
-    <Gallery />
-    <Connect />
+    <TestimonialContent />
     <Footer />
   </>
 );
-export default GalleryPage;
+
+export default TestimonialPage;

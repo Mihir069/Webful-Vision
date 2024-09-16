@@ -1,9 +1,9 @@
-import testimonal from "../../../data/testiminal.json";
+import testimonial from "../../../data/testimonials.json";
 
 const Testimonials = () => {
   return (
     <div className="space-y-4">
-      {testimonal.map((items) => (
+      {testimonial.map((items) => (
         <div className="p-4 bg-slate-100 rounded-lg shadow-md" key={items.id}>
           <div className="bg-slate-300 text-sm p-3 rounded-md">
             <p>{items.quotes}</p>
