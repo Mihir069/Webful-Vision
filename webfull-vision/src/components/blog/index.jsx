@@ -1,4 +1,4 @@
-import BlogContent from "../blog-content";
+import BlogContent from "./blog-content";
 import Testimonials from "../testimonials";
 
 const Blog = () => (

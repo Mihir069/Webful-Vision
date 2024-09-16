@@ -1,5 +1,5 @@
-import Testimonials from "../testimonials";
-import FormTestimonials from "./testimonial-form";
+import Testimonials from "../index";
+import FormTestimonials from "../testimonial-form";
 
 const TestimonialContent = () => (
   <div className="px-4 sm:px-8 md:px-16 lg:px-48">

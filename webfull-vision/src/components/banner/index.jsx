@@ -1,6 +1,6 @@
 import Slider from "react-slick";
 import bannerList from "../../../data/bannerList.json";
-import InformationBox from "../infromation-box";
+import InformationBoxCard from "../common/information-box-card";
 
 const Banner = () => {
   const settings = {
@@ -39,7 +39,42 @@ const Banner = () => {
     <div className="relative w-full overflow-hidden sm:pb-56">
       <Slider {...settings}>{banner}</Slider>
       <div className="absolute bottom-0 left-0 sm:left-24 z-50 w-full sm:w-auto hidden sm:block">
-        <InformationBox />
+        <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 w-full overflow-x-auto sm:overflow-visible">
+          <InformationBoxCard
+            title="Lenses & Frames"
+            description="Our wide range of lenses and frames help you choose the best suitable items for you."
+            listItems={[
+              "Latest Fashion",
+              "High Quality and Branded",
+              "Best for your Eyes",
+            ]}
+            imageSrc="/img/lenseandframe.png"
+            buttonText="Read more"
+          />
+          <InformationBoxCard
+            title="Lenses & Frames"
+            description="Our wide range of lenses and frames help you choose the best suitable items for you."
+            listItems={[
+              "Latest Fashion",
+              "High Quality and Branded",
+              "Best for your Eyes",
+            ]}
+            imageSrc="/img/lenseandframe.png"
+            buttonText="Read more"
+          />
+          <InformationBoxCard
+            title="Lenses & Frames"
+            description="Our wide range of lenses and frames help you choose the best suitable items for you."
+            listItems={[
+              "Latest Fashion",
+              "High Quality and Branded",
+              "Best for your Eyes",
+            ]}
+            imageSrc="/img/lenseandframe.png"
+            buttonText="Read more"
+          />
+        </div>
+        {/* <InformationBox /> */}
       </div>
     </div>
   );

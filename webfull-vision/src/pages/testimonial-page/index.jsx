@@ -1,7 +1,7 @@
 import PageBanner from "../../components/common/page-banner";
 import Footer from "../../components/footer";
 import Header from "../../components/header";
-import TestimonialContent from "../../components/testimonial-content";
+import TestimonialContent from "../../components/testimonials/testimonial-content";
 
 const TestimonialPage = () => (
   <>
