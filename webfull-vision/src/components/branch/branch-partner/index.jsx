@@ -1,4 +1,4 @@
-import branchPartners from "../../../data/branchPartner.json";
+import branchPartners from "../../../../data/branchPartner.json";
 
 const BranchPartner = () => {
   return (

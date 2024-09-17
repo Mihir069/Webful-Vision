@@ -1,4 +1,4 @@
-const TestimonalForm = () => (
+const FormTestimonials = () => (
   <form>
     <div className="bg-slate-100 p-4">
       <div className="text-xl font-customFont text-slate-800 ">
@@ -69,4 +69,4 @@ const TestimonalForm = () => (
     </div>
   </form>
 );
-export default TestimonalForm;
+export default FormTestimonials;

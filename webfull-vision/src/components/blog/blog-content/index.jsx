@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import blogList from "../../../data/blog.json";
+import blogList from "../../../../data/blog.json";
 
 const BlogContent = () => {
   const [openItemId, setOpenItemId] = useState(() =>

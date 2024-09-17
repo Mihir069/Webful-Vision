@@ -1,6 +1,6 @@
 import Banner from "../../../components/banner";
 import Blog from "../../../components/blog";
-import BranchModule from "../../../components/branch-module";
+import BranchModule from "../../../components/branch/branch-module";
 import Connect from "../../../components/connect";
 import Footer from "../../../components/footer";
 import Header from "../../../components/header";

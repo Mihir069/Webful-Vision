@@ -1,5 +1,5 @@
-import BlogContent from "../blog-content";
-import Testimonials from "../testimonal";
+import BlogContent from "./blog-content";
+import Testimonials from "../testimonials";
 
 const Blog = () => (
   <div className="px-4 sm:px-8 md:px-16 lg:px-48">
