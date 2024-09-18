@@ -1,4 +1,4 @@
-import ServicesCard from "../service-card";
+import ServicesCard from "../common/service-card";
 
 const Services = () => (
   <div className="relative bg-[url('/img/footer-bg.jpg')] bg-cover bg-center h-auto text-center px-4 sm:px-8 lg:px-48">

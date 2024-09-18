@@ -5,7 +5,7 @@
     "alt": "service1",
     "path": "/",
     "title": "Post Operative Lasik Care",
-    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "alt": "service2",
     "path": "/",
     "title": "Free Lense Consultation",
-    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "alt": "service3",
     "path": "/",
     "title": "Great Lasik Consultation",
-    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "alt": "service4",
     "path": "/",
     "title": "Glaucoma Screening",
-    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "alt": "service5",
     "path": "/",
     "title": "Eye Infaction Care",
-    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "alt": "service6",
     "path": "/",
     "title": "Computerized Eye Exam",
-    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "alt": "service7",
     "path": "/",
     "title": "Dry Eyes Treatment",
-    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "alt": "service8",
     "path": "/",
     "title": "Contract Screening",
-    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
   },
   {
     "id": 9,
@@ -69,6 +69,6 @@
     "alt": "service9",
     "path": "/",
     "title": "Post Operative Lasik Care",
-    "desciption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem dummy text ever. Since then we are using"
   }
 ]
