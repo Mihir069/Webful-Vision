@@ -7,7 +7,7 @@ const MainNavBar = () => {
   const toggleMenu = () => setIsMenuOpen((prevState) => !prevState);
 
   const renderNestedMenu = (nestedItems) => (
-    <ul className="absolute  lg:left-0 md:right-0 top-full mt-1 z-[100] bg-[#CE6021] shadow-lg w-48 hidden group-hover:block">
+    <ul className="absolute  lg:left-0 md:right-0 top-full  z-[100] bg-[#CE6021] w-48 hidden group-hover:block">
       {nestedItems.map((item) => (
         <li key={item.id} className="relative px-5 py-2 hover:bg-[#15568E]">
           <Link
