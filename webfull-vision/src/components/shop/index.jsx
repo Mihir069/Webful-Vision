@@ -1,4 +1,4 @@
-import ShopCard from "../shop-card";
+import ShopCard from "../common/shop-card";
 
 const Shop = () => (
   <div className="px-4 py-5 md:px-48 flex flex=wrap">

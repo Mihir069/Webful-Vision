@@ -13,6 +13,7 @@ const PricingPage = lazy(() => import("./pages/pricing-page"));
 const AppointmentPage = lazy(() => import("./pages/appointment-page"));
 const ErrorPage = lazy(() => import("./pages/404-page"));
 const GalleryPage = lazy(() => import("./pages/gallery-page"));
+const ServicesPage = lazy(() => import("./pages/services-page"));
 
 const App = () => (
   <BrowserRouter>
@@ -27,6 +28,7 @@ const App = () => (
         <Route path="/testimonial" element={<TestimonialPage />} />
         <Route path="/error-page" element={<ErrorPage />} />
         <Route path="/gallery" element={<GalleryPage />} />
+        <Route path="/services" element={<ServicesPage />} />
       </Routes>
     </Suspense>
   </BrowserRouter>

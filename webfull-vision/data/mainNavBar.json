@@ -66,12 +66,12 @@
   {
     "id": 3,
     "name": "Services",
-    "path": "/",
+    "path": "/services",
     "more": [
       {
         "id": 21,
         "name": "Services",
-        "path": "/"
+        "path": "/services"
       },
       {
         "id": 22,
